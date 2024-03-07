@@ -25,7 +25,7 @@
   align-items: center;
   border-radius: 60px;
   padding: 10px 20px;
-  backdrop-filter: blur(4px) saturate(180%);
+  backdrop-filter: blur(3px) saturate(180%);
 }
 .search-bar input {
   background: transparent;
@@ -49,4 +49,7 @@
   height: 60px;
   background: #6a6c7a;
   cursor: pointer;
+}
+.box {
+  border: 25px solid rgb(230, 218, 218);
 }
